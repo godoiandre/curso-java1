@@ -18,7 +18,7 @@ public class Calculadora {
         switch(op){
             case "+" -> System.out.printf("%d + %d = %d", n1, n2, n1+n2);
             case "-" -> System.out.printf("%d - %d = %d", n1, n2, n1-n2);
-            case "/" -> System.out.printf("%d/%d = %.2f", n1, n2, n1/n2);
+            case "/" -> System.out.printf("%d/%d = %.2f", n1, n2, (float)n1/n2);
             case "*" -> System.out.printf("%d*%d = %d", n1, n2, n1*n2);
             default -> System.out.println("opção invalida!");
         }
