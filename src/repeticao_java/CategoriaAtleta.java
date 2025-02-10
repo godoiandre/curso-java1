@@ -1,3 +1,4 @@
+package repeticao_java;
 /*
  * Dada a idade do atleta, imprima sua categoria
  * Mirim: 10 a 12 anos

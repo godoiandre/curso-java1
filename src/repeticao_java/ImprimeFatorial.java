@@ -1,3 +1,4 @@
+package repeticao_java;
 /*
  * Você deve criar um programa Java que permita ao usuário calcular o fatorial de um número inteiro positivo. Lembre-se 
  * de que o fatorial de um número n é o produto de todos os inteiros positivos de 1 a n.

@@ -1,3 +1,4 @@
+package repeticao_java;
 /*  
     Crie um programa Java que solicita ao usuário uma série de números
     e quando ele digitar um número negativo, o programa irá encerrar e 

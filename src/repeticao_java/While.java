@@ -1,3 +1,4 @@
+package repeticao_java;
 public class While {
     public static void main(String[] args) {
         int num = 1;

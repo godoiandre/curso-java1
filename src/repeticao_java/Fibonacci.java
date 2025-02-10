@@ -1,3 +1,4 @@
+package repeticao_java;
 /*
  * A Sequência de Fibonacci é uma série matemática em que cada número subsequente é a soma 
  * dos dois números anteriores. Começando com 0 e 1, os primeiros termos da 

@@ -1,3 +1,4 @@
+package repeticao_java;
 /*
  * Crie um algoritmo que leia 3 numeors e mostre na tela em ordem crescente
  */
