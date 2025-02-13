@@ -1,3 +1,4 @@
+package repeticao_java;
 /*
  * Crie uma calculadora que dados 2 numeros e uma operação retorne
  * o resultado da operação
